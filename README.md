@@ -1,4 +1,3 @@
-<img width="1600" height="860" alt="data-professional-survey-dashboard png" src="https://github.com/user-attachments/assets/0d731a7c-0eeb-45a7-817e-3ae6270d33fa" />
 # Data Professional Survey Breakdown | Power BI Dashboard
 
 ## Project Overview
@@ -9,7 +8,7 @@ The dashboard transforms survey data into interactive visualizations that make i
 
 ## Dashboard Preview
 
-![Data Professional Survey Breakdown Dashboard](images/data-professional-survey-dashboard.png)
+<img width="1600" height="860" alt="data-professional-survey-dashboard png" src="https://github.com/user-attachments/assets/0d731a7c-0eeb-45a7-817e-3ae6270d33fa" />
 
 ## Objectives
 
